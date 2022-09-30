@@ -1,6 +1,6 @@
 # 3D-Multi-Modal-Vision-Papers
 
-The Papers about 3D Vision of Multi Modals and Sensors
+The Papers about 3D Vision of Multi Modals and Sensors.
 
 ## CVPR 2022
 
