@@ -12,11 +12,13 @@ The Papers about 3D Vision of Multi Modals and Sensors.
 
 [3]【Dataset】《Vision meets robotics: The KITTI dataset》[PDF](https://journals.sagepub.com/doi/epub/10.1177/0278364913491297) [Website](https://www.cvlibs.net/datasets/kitti/)
 
-[4]【Survey】《Deep Multi-modal Object Detection and Semantic Segmentation for Autonomous Driving: Datasets, Methods, and Challenges》[PDF](https://ieeexplore.ieee.org/document/9000872) 
+[4]【Dataset】《M2DGR: A Multi-sensor and Multi-scenario SLAM Dataset for Ground Robots》[PDF](https://ieeexplore.ieee.org/document/9664374) [Website](https://github.com/SJTU-ViSYS/M2DGR)
 
-[5]【Survey】《Multi-Modal 3D Object Detection in Autonomous Driving: a Survey》[PDF](https://arxiv.org/pdf/2106.12735.pdf) 
+[5]【Survey】《Deep Multi-modal Object Detection and Semantic Segmentation for Autonomous Driving: Datasets, Methods, and Challenges》[PDF](https://ieeexplore.ieee.org/document/9000872) 
 
-[6]【Survey】《Multi-modal Sensor Fusion for Auto Driving Perception: A Survey》[PDF](https://www.researchgate.net/publication/358422913_Multi-modal_Sensor_Fusion_for_Auto_Driving_Perception_A_Survey/fulltext/6201e10a7047cd22c3541b56/Multi-modal-Sensor-Fusion-for-Auto-Driving-Perception-A-Survey.pdf) 
+[6]【Survey】《Multi-Modal 3D Object Detection in Autonomous Driving: a Survey》[PDF](https://arxiv.org/pdf/2106.12735.pdf) 
+
+[7]【Survey】《Multi-modal Sensor Fusion for Auto Driving Perception: A Survey》[PDF](https://www.researchgate.net/publication/358422913_Multi-modal_Sensor_Fusion_for_Auto_Driving_Perception_A_Survey/fulltext/6201e10a7047cd22c3541b56/Multi-modal-Sensor-Fusion-for-Auto-Driving-Perception-A-Survey.pdf) 
 
 ---
 
@@ -44,6 +46,12 @@ The Papers about 3D Vision of Multi Modals and Sensors.
 
 [11]【LiDAR+Camera】《Sparse Fuse Dense: Towards High Quality 3D Detection with Depth Completion》[PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Wu_Sparse_Fuse_Dense_Towards_High_Quality_3D_Detection_With_Depth_CVPR_2022_paper.pdf) [CODE](https://github.com/LittlePey/SFD)
 
+## ECCV 2022
+
+[1]【LiDAR+Camera】《2DPASS: 2D Priors Assisted Semantic Segmentation on LiDAR Point Clouds》[PDF](https://arxiv.org/pdf/2207.04397v2.pdf) [CODE](https://github.com/yanx27/2DPASS)
+
+[2]【**Infrared**+Camera】《Multimodal Object Detection via Probabilistic Ensembling》[PDF](https://arxiv.org/pdf/2104.02904.pdf) [CODE](https://github.com/Jamie725/Multimodal-Object-Detection-via-Probabilistic-Ensembling)
+
 ## Others 2022
 
 [1] (T-PAMI)【LiDAR+Camera】《TransFuser: Imitation with Transformer-Based Sensor Fusion for Autonomous Driving》[PDF](https://arxiv.org/abs/2205.15997) [CODE](https://github.com/autonomousvision/transfuser)
@@ -53,6 +61,10 @@ The Papers about 3D Vision of Multi Modals and Sensors.
 [3] (arXiv)【LiDAR+Camera】《FUTR3D: A Unified Sensor Fusion Framework for 3D Detection》[PDF](https://arxiv.org/pdf/2203.10642v1.pdf) [CODE](https://github.com/Tsinghua-MARS-Lab/futr3d)
 
 [4] (arXiv)【LiDAR+Camera】《DeepInteraction: 3D Object Detection via Modality Interaction》[PDF](https://arxiv.org/pdf/2208.11112.pdf) [CODE](https://github.com/fudan-zvg/DeepInteraction)
+
+[5] (arXiv)【LiDAR+Camera】《AutoAlign: Pixel-Instance Feature Aggregation for Multi-Modal 3D Object Detection》[PDF](https://arxiv.org/pdf/2201.06493.pdf)
+
+[6] (arXiv)【LiDAR+Camera】《AutoAlignV2: Deformable Feature Aggregation for Dynamic Multi-Modal 3D Object Detection》[PDF](https://arxiv.org/pdf/2207.10316.pdf) [CODE](https://github.com/zehuichen123/AutoAlignV2)
 
 ---
 
@@ -74,8 +86,18 @@ The Papers about 3D Vision of Multi Modals and Sensors.
 
 [4]【**Radar**+Camera】《Full-Velocity Radar Returns by Radar-Camera Fusion》[PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Long_Full-Velocity_Radar_Returns_by_Radar-Camera_Fusion_ICCV_2021_paper.pdf) 
 
+## Others 2021
+
+[1] (arXiv)【LiDAR+Camera】《EPNet++: Cascade Bi-directional Fusion for Multi-Modal 3D Object Detection》[PDF](https://arxiv.org/pdf/2112.11088.pdf)
+
+[2] (arXiv)【LiDAR+Camera】《Multi-Modality Task Cascade for 3D Object Detection》[PDF](https://arxiv.org/pdf/2107.04013.pdf)
+
 ---
 
 ## CVPR 2020
 
 [1]【LiDAR+Camera】《Seeing Through Fog Without Seeing Fog: Deep Multimodal Sensor Fusion in Unseen Adverse Weather》[PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Bijelic_Seeing_Through_Fog_Without_Seeing_Fog_Deep_Multimodal_Sensor_Fusion_CVPR_2020_paper.pdf)
+
+## ECCV 2020
+
+[1]【LiDAR+Camera】《3D-CVF: Generating Joint Camera and LiDAR Features Using Cross-View Spatial Feature Fusion for 3D Object Detection》[PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720715.pdf) [CODE](https://github.com/rasd3/3D-CVF)
